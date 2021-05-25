@@ -1,2 +1,2 @@
 # vesuviobot
-Telegram bot per orari treni
+Telegram bot per orari treni vesuviana
