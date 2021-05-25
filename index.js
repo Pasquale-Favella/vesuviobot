@@ -17,7 +17,9 @@ cron.schedule('0 12 */14 * *', () => {
 
 
 const bot = new Telegraf(process.env.TELEGRAM_BOT_TOKEN)
-bot.start((ctx) => ctx.reply('Welcome'))
+bot.start((ctx) => ctx.reply('Welcome bell'));
+bot.on('sticker', (ctx) => ctx.reply('🖕'));
+bot.hears('Ciao', (ctx) => ctx.reply('Weweeee'))
 bot.launch()
 
 
