@@ -1,8 +1,15 @@
 const {downloadZipFromURL} = require('./utils');
 
-downloadZipFromURL();
+const cron = require('node-cron');
 
-//TODO : da schedulare chron job e wirare con bot telegram
+//Run Ogni 15 giorni per refresh
+cron.schedule('0 12 */14 * *', () => {
+    downloadZipFromURL();
+});
+
+
+
+//TODO : wirare con bot telegram
 
 
 

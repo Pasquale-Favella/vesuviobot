@@ -1,0 +1,5290 @@
+[
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10549_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "10549"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1059_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1059"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1060_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1060"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "10600_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10600"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "10601_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "10601"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10613_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "10613"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "10628_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10628"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1063_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1063"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10636_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10636"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10637_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "10637"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "10639_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "10639"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1064_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1064"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1688505247",
+        "trip_id": "10646_-1688505247",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10646"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "10647_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "10647"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10648_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10648"
+    },
+    {
+        "route_id": "1",
+        "service_id": "327895744",
+        "trip_id": "10648_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10648"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1215900534",
+        "trip_id": "1068_1215900534",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1068"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10700_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10700"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10701_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "10701"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1071_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1071"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1071_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1071"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1072_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1072"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "10722_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10722"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10724_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10724"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10725_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "10725"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10748_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10748"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10749_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "10749"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1075_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1075"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "10754_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10754"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "10759_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "10759"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1076_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1076"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1080_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1080"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "10811_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "10811"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10812_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10812"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10813_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "10813"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "10826_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10826"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1083_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1083"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1083_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1083"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10836_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10836"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1084_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1084"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1088_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1088"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1090_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1090"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10900_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10900"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10901_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "10901"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1161967209",
+        "trip_id": "10905_1161967209",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "10905"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1091_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1091"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1091_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1091"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1092_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1092"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1092_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1092"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1093_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1093"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10948_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "10948"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "10949_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "10949"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1095_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1095"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1096_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1096"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1099_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1099"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1100_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1100"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1101_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1101"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4149_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4149"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4151_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4151"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4156_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4156"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4157_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4157"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4160_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4160"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4161_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4161"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4164_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4164"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4165_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4165"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4170_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4170"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4172_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4172"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "41723_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "41723"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4173_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4173"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4180_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4180"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4180_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4180"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4181_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4181"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4181_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4181"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "41853_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "41853"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "41856_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "41856"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4188_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4188"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4189_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4189"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4191_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4191"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4193_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4193"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4193_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4193"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4196_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4196"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4197_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4197"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4200_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4200"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "50502_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "50502"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "50512_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "50512"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1941506325",
+        "trip_id": "50545_-1941506325",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "50545"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5056_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5056"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5059_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5059"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5060_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5060"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5063_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5063"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5064_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5064"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5067_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5067"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5068_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5068"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5071_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5071"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5072_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5072"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5075_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5075"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5076_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5076"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5079_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5079"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5080_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5080"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5083_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5083"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5084_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5084"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5087_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5087"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5088_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5088"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5091_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5091"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5092_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5092"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5095_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5095"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5096_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5096"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5099_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5099"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5100_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5100"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5103_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5103"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5104_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5104"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5107_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5107"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5108_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5108"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5111_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5111"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5112_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5112"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5115_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5115"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5116_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5116"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5119_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5119"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5120_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5120"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5123_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5123"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5124_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5124"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1298274421",
+        "trip_id": "8084_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8084"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "80841_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "80841"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8088_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8088"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8089_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8089"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8090_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8090"
+    },
+    {
+        "route_id": "8..",
+        "service_id": "1298274421",
+        "trip_id": "80900_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "80900"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8091_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8091"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "80918_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "80918"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "80941_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "80941"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8096_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8096"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8097_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8097"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8100_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8100"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8101_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8101"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81018_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81018"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8104_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8104"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81041_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "81041"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8105_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8105"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8110_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8110"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8111_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8111"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81118_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81118"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8112_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8112"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8113_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8113"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81141_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "81141"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1298274421",
+        "trip_id": "8117_1298274421",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8117"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8120_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8120"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8120_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8120"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8121_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8121"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8121_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8121"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81218_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81218"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81241_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "81241"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8125_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8125"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8128_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8128"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8129_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8129"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8130_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8130"
+    },
+    {
+        "route_id": "8..",
+        "service_id": "1298274421",
+        "trip_id": "81307_1298274421",
+        "trip_headsign": "Pomigliano d'Arco",
+        "trip_short_name": "81307"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8131_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8131"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81318_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81318"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1298274421",
+        "trip_id": "8132_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8132"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81341_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "81341"
+    },
+    {
+        "route_id": "8..",
+        "service_id": "1298274421",
+        "trip_id": "81348_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81348"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8136_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8136"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8137_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8137"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8140_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8140"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8140_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8140"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8141_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8141"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8141_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8141"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81418_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81418"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8144_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8144"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81441_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "81441"
+    },
+    {
+        "route_id": "8..",
+        "service_id": "1298274421",
+        "trip_id": "81443_1298274421",
+        "trip_headsign": "Pomigliano d'Arco",
+        "trip_short_name": "81443"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8145_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8145"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8150_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8150"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8151_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8151"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81518_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81518"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8152_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8152"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8153_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8153"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81541_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "81541"
+    },
+    {
+        "route_id": "8..",
+        "service_id": "1298274421",
+        "trip_id": "81548_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81548"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1102_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1102"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1161967209",
+        "trip_id": "11024_1161967209",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11024"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1103_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1103"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1103_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1103"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11036_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11036"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11037_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "11037"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1107_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1107"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1108_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1108"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1110_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1110"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1111_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1111"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1111_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1111"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1112_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1112"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1112_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1112"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11124_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11124"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11125_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "11125"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1161967209",
+        "trip_id": "1113_1161967209",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1113"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1161967209",
+        "trip_id": "11135_1161967209",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11135"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1116_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1116"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1119_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1119"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1120_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1120"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1120_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1120"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1121_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1121"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11212_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11212"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11213_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "11213"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1122_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1122"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1123_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1123"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1123_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1123"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1124_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1124"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1127_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1127"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1128_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1128"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1130_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1130"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11300_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11300"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11301_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "11301"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1131_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1131"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1131_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1131"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1161967209",
+        "trip_id": "1132_1161967209",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1132"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "11335_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11335"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11341_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11341"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11348_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11348"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11349_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "11349"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11356_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11356"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1136_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1136"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1139_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1139"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1140_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1140"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1141_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1141"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11422_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11422"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1143_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1143"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1143_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1143"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11436_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11436"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11437_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "11437"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1161967209",
+        "trip_id": "11438_1161967209",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11438"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1144_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1144"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11454_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11454"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1147_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1147"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1148_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1148"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11511_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11511"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "11511_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11511"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1152_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1152"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5127_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5127"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5128_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5128"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5131_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5131"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5132_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5132"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5135_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5135"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5136_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5136"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5139_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5139"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5140_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5140"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5143_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5143"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5144_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5144"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5147_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5147"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5148_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5148"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5151_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5151"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5152_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5152"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5155_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5155"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5156_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5156"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5159_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5159"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5160_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5160"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5163_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5163"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5164_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5164"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5167_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5167"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5168_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5168"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5171_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5171"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5172_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5172"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5175_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5175"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5176_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5176"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5179_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5179"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5180_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5180"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5183_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5183"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5184_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5184"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5187_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5187"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5188_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5188"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5191_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5191"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5192_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5192"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5195_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5195"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5196_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5196"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5199_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5199"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5200_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5200"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5203_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5203"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5204_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5204"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5207_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5207"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5208_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5208"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5211_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5211"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5212_-1671645236",
+        "trip_headsign": "Licola",
+        "trip_short_name": "5212"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "52136_-1671645236",
+        "trip_headsign": "Quarto",
+        "trip_short_name": "52136"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "5215_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "5215"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "52155_-1671645236",
+        "trip_headsign": "Quarto",
+        "trip_short_name": "52155"
+    },
+    {
+        "route_id": "5",
+        "service_id": "-1671645236",
+        "trip_id": "52207_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "52207"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6060_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6060"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6060_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6060"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6062_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6062"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "60623_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "60623"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6063_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6063"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1298274421",
+        "trip_id": "6064_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6064"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6065_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6065"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1688505247",
+        "trip_id": "60651_-1688505247",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "60651"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6068_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6068"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1298274421",
+        "trip_id": "6069_1298274421",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6069"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6070_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6070"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "60701_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "60701"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6072_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6072"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "60721_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "60721"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6073_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6073"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6077_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6077"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6080_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6080"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8156_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8156"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8160_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8160"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8160_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8160"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8161_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8161"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8161_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8161"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81618_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81618"
+    },
+    {
+        "route_id": "8..",
+        "service_id": "1298274421",
+        "trip_id": "81619_1298274421",
+        "trip_headsign": "Pomigliano d'Arco",
+        "trip_short_name": "81619"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81641_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "81641"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8168_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8168"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8169_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8169"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8170_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8170"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8171_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8171"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81711_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "81711"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81718_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81718"
+    },
+    {
+        "route_id": "8..",
+        "service_id": "1298274421",
+        "trip_id": "81724_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81724"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1298274421",
+        "trip_id": "8173_1298274421",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8173"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81741_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "81741"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81748_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81748"
+    },
+    {
+        "route_id": "8..",
+        "service_id": "1298274421",
+        "trip_id": "81755_1298274421",
+        "trip_headsign": "Pomigliano d'Arco",
+        "trip_short_name": "81755"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8176_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8176"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8177_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8177"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8180_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8180"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8181_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8181"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81811_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "81811"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81814_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81814"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8183_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8183"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8184_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8184"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "81848_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81848"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8185_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8185"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8189_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8189"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8190_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8190"
+    },
+    {
+        "route_id": "8..",
+        "service_id": "1298274421",
+        "trip_id": "81900_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "81900"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8191_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8191"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8192_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8192"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1298274421",
+        "trip_id": "8193_1298274421",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8193"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8193_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8193"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8197_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8197"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8200_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8200"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8200_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8200"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "82001_-1890850101",
+        "trip_headsign": "Nola",
+        "trip_short_name": "82001"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "82017_1733213077",
+        "trip_headsign": "Nola",
+        "trip_short_name": "82017"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "90449_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "90449"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "90454_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "90454"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "90508_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "90508"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "90517_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "90517"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9052_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9052"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "90529_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "90529"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9053_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9053"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9054_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9054"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "90549_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "90549"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9055_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9055"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9060_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9060"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9061_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9061"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9062_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9062"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11524_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11524"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11525_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "11525"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11526_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11526"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1153_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1153"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1161967209",
+        "trip_id": "11535_1161967209",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11535"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1156_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1156"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1159_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1159"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1160_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1160"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1160_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1160"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1161_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1161"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11612_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11612"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11613_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "11613"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1162_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1162"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1163_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1163"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1163_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1163"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1164_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1164"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1161967209",
+        "trip_id": "11654_1161967209",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11654"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1167_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1167"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1168_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1168"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1170_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1170"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11700_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11700"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11701_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "11701"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1171_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1171"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1171_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1171"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11724_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11724"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "11735_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11735"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11741_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11741"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11748_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11748"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11749_1298274421",
+        "trip_headsign": "Torre del Greco",
+        "trip_short_name": "11749"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11756_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11756"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1176_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1176"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1180_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1180"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1161967209",
+        "trip_id": "11805_1161967209",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11805"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1181_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1181"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11822_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11822"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1688505247",
+        "trip_id": "1183_-1688505247",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1183"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1183_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1183"
+    },
+    {
+        "route_id": "1",
+        "service_id": "327895744",
+        "trip_id": "11831_327895744",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11831"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11833_1298274421",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11833"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1298274421",
+        "trip_id": "11836_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11836"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1184_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1184"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1215900534",
+        "trip_id": "11847_1215900534",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11847"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11854_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11854"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1188_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1188"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1191_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1191"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11911_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "11911"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1192_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1192"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "11926_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "11926"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1193_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1193"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1195_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1195"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1199_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1199"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1200_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1200"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1200_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1200"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1201_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1201"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1202_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1202"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1203_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1203"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1203_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1203"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1204_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1204"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6080_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6080"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6081_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6081"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6082_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6082"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1298274421",
+        "trip_id": "6084_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6084"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6085_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6085"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6088_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6088"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6090_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6090"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6091_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6091"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6092_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6092"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6092_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6092"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6093_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6093"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6100_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6100"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6101_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6101"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6101_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6101"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6102_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6102"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6108_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6108"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6109_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6109"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6111_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6111"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6112_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6112"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6116_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6116"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6117_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6117"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1298274421",
+        "trip_id": "6121_1298274421",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6121"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6121_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6121"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6122_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6122"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6124_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6124"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6125_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6125"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6131_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6131"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6132_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6132"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6132_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6132"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6133_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6133"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1298274421",
+        "trip_id": "6136_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6136"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6140_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6140"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6141_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6141"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6141_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6141"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6142_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6142"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6148_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6148"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6149_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6149"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6151_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6151"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6152_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6152"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6156_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6156"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6157_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6157"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6161_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6161"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6162_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6162"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6164_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6164"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6165_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6165"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6171_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6171"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6172_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6172"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6172_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6172"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6173_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6173"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1298274421",
+        "trip_id": "6177_1298274421",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6177"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6180_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6180"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6181_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6181"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6181_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6181"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6182_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6182"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6183_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6183"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6185_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6185"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6188_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6188"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6189_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6189"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6192_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6192"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "6193_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6193"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6196_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "6196"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "6197_-1890850101",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "6197"
+    },
+    {
+        "route_id": "6",
+        "service_id": "1733213077",
+        "trip_id": "62001_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "62001"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9063_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9063"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9064_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9064"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9065_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9065"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9070_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9070"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9071_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9071"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9072_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9072"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9073_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9073"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9074_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9074"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9075_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9075"
+    },
+    {
+        "route_id": "9",
+        "service_id": "873154617",
+        "trip_id": "90757_873154617",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "90757"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9080_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9080"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9081_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9081"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9082_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9082"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9083_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9083"
+    },
+    {
+        "route_id": "9",
+        "service_id": "873154617",
+        "trip_id": "90830_873154617",
+        "trip_headsign": "Fuorigrotta",
+        "trip_short_name": "90830"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9084_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9084"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9085_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9085"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9090_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9090"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9091_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9091"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9092_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9092"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9093_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9093"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9094_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9094"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9095_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9095"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9100_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9100"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9101_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9101"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9102_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9102"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9103_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9103"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9104_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9104"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9105_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9105"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9110_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9110"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9111_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9111"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9112_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9112"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9113_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9113"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9114_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9114"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9115_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9115"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9120_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9120"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9121_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9121"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9122_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9122"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9123_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9123"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9124_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9124"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9125_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9125"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9130_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9130"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9131_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9131"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9132_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9132"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9133_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9133"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9134_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9134"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9135_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9135"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9140_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9140"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9141_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9141"
+    },
+    {
+        "route_id": "9",
+        "service_id": "873154617",
+        "trip_id": "91417_873154617",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "91417"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9142_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9142"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9143_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9143"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9144_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9144"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9145_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9145"
+    },
+    {
+        "route_id": "9",
+        "service_id": "873154617",
+        "trip_id": "91450_873154617",
+        "trip_headsign": "Fuorigrotta",
+        "trip_short_name": "91450"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9150_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9150"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9151_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9151"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9152_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9152"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9153_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9153"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9154_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9154"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9155_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9155"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9160_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9160"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9161_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9161"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9162_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9162"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1161967209",
+        "trip_id": "12056_1161967209",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "12056"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1207_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1207"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1208_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1208"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1210_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1210"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "1211_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1211"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1211_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1211"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1212_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1212"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "12147_1733213077",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "12147"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1215_-1890850101",
+        "trip_headsign": "Sorrento",
+        "trip_short_name": "1215"
+    },
+    {
+        "route_id": "1",
+        "service_id": "1733213077",
+        "trip_id": "12154_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "12154"
+    },
+    {
+        "route_id": "1",
+        "service_id": "-1890850101",
+        "trip_id": "1216_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "1216"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "20552_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "20552"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2061_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2061"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2062_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2062"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2065_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2065"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2066_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2066"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2071_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2071"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2072_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2072"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2075_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2075"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2076_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2076"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2081_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2081"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2082_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2082"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2085_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2085"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2086_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2086"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2091_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2091"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2092_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2092"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2095_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2095"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2096_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2096"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2101_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2101"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2106_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2106"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2111_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2111"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2116_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2116"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2121_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2121"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2126_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2126"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2131_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2131"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2136_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2136"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2141_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2141"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2146_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2146"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2151_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2151"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2156_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2156"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2161_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2161"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2162_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2162"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2165_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2165"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2166_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2166"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2171_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2171"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2172_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2172"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2175_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2175"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2176_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2176"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2181_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2181"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2182_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2182"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2185_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2185"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2186_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2186"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2191_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2191"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2192_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2192"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2195_-1671645236",
+        "trip_headsign": "Piscinola Scampia",
+        "trip_short_name": "2195"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "2196_-1671645236",
+        "trip_headsign": "Aversa",
+        "trip_short_name": "2196"
+    },
+    {
+        "route_id": "2",
+        "service_id": "-1671645236",
+        "trip_id": "22043_-1671645236",
+        "trip_headsign": "Giugliano",
+        "trip_short_name": "22043"
+    },
+    {
+        "route_id": "7",
+        "service_id": "1321131445",
+        "trip_id": "30800_1321131445",
+        "trip_headsign": "S. Angelo in Formis",
+        "trip_short_name": "30800"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "30801_-1939953668",
+        "trip_headsign": "S. Maria Capua Vetere RFI",
+        "trip_short_name": "30801"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "30802_-1939953668",
+        "trip_headsign": "S. Angelo in Formis",
+        "trip_short_name": "30802"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "30803_-1939953668",
+        "trip_headsign": "S. Maria Capua Vetere RFI",
+        "trip_short_name": "30803"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "30804_-1939953668",
+        "trip_headsign": "S. Angelo in Formis",
+        "trip_short_name": "30804"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "30805_-1939953668",
+        "trip_headsign": "S. Maria Capua Vetere RFI",
+        "trip_short_name": "30805"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "30806_-1939953668",
+        "trip_headsign": "S. Angelo in Formis",
+        "trip_short_name": "30806"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "30807_-1939953668",
+        "trip_headsign": "S. Maria Capua Vetere RFI",
+        "trip_short_name": "30807"
+    },
+    {
+        "route_id": "4",
+        "service_id": "327895744",
+        "trip_id": "4053_327895744",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4053"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "40556_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "40556"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4060_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4060"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4061_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4061"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "40623_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "40623"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "40626_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "40626"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4064_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4064"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1298274421",
+        "trip_id": "4065_1298274421",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4065"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "40655_1733213077",
+        "trip_headsign": "Sarno",
+        "trip_short_name": "40655"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4068_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4068"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4069_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4069"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4070_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4070"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4071_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4071"
+    },
+    {
+        "route_id": "4",
+        "service_id": "327895744",
+        "trip_id": "4072_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4072"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1298274421",
+        "trip_id": "4073_1298274421",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4073"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1688505247",
+        "trip_id": "40756_-1688505247",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "40756"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4076_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4076"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4077_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4077"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1298274421",
+        "trip_id": "4080_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4080"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4081_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4081"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4082_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4082"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4084_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4084"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4085_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4085"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1298274421",
+        "trip_id": "4088_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4088"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4090_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4090"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4091_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4091"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4092_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4092"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4093_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4093"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4100_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4100"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4100_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4100"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4101_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4101"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4101_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4101"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4108_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4108"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4109_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4109"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4110_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4110"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4111_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4111"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4116_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4116"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4117_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4117"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4120_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4120"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1298274421",
+        "trip_id": "4121_1298274421",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4121"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4121_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4121"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4124_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4124"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4125_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4125"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4130_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4130"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4132_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4132"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "41323_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "41323"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4133_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4133"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1298274421",
+        "trip_id": "4136_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4136"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4140_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4140"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4140_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4140"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "4141_1733213077",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4141"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4141_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "4141"
+    },
+    {
+        "route_id": "4",
+        "service_id": "1733213077",
+        "trip_id": "41456_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "41456"
+    },
+    {
+        "route_id": "4",
+        "service_id": "-1890850101",
+        "trip_id": "4148_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "4148"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "62003_-1890850101",
+        "trip_headsign": "Poggiomarino",
+        "trip_short_name": "62003"
+    },
+    {
+        "route_id": "6",
+        "service_id": "-1890850101",
+        "trip_id": "62012_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "62012"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7857_-1939953668",
+        "trip_headsign": "S. Maria Capua Vetere RFI",
+        "trip_short_name": "7857"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7858_-1939953668",
+        "trip_headsign": "Piedimonte Matese",
+        "trip_short_name": "7858"
+    },
+    {
+        "route_id": "7",
+        "service_id": "1321131445",
+        "trip_id": "7859_1321131445",
+        "trip_headsign": "Napoli Centrale RFI",
+        "trip_short_name": "7859"
+    },
+    {
+        "route_id": "7",
+        "service_id": "1321131445",
+        "trip_id": "7860_1321131445",
+        "trip_headsign": "Piedimonte Matese",
+        "trip_short_name": "7860"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7861_-1939953668",
+        "trip_headsign": "S. Maria Capua Vetere RFI",
+        "trip_short_name": "7861"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7862_-1939953668",
+        "trip_headsign": "Piedimonte Matese",
+        "trip_short_name": "7862"
+    },
+    {
+        "route_id": "7",
+        "service_id": "1321131445",
+        "trip_id": "7863_1321131445",
+        "trip_headsign": "S. Maria Capua Vetere RFI",
+        "trip_short_name": "7863"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7864_-1939953668",
+        "trip_headsign": "Piedimonte Matese",
+        "trip_short_name": "7864"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7865_-1939953668",
+        "trip_headsign": "S. Maria Capua Vetere RFI",
+        "trip_short_name": "7865"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7866_-1939953668",
+        "trip_headsign": "Piedimonte Matese",
+        "trip_short_name": "7866"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7867_-1939953668",
+        "trip_headsign": "S. Maria Capua Vetere RFI",
+        "trip_short_name": "7867"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7868_-1939953668",
+        "trip_headsign": "Piedimonte Matese",
+        "trip_short_name": "7868"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7869_-1939953668",
+        "trip_headsign": "S. Maria Capua Vetere RFI",
+        "trip_short_name": "7869"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7870_-1939953668",
+        "trip_headsign": "Piedimonte Matese",
+        "trip_short_name": "7870"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1667503932",
+        "trip_id": "7871_-1667503932",
+        "trip_headsign": "Napoli Centrale RFI",
+        "trip_short_name": "7871"
+    },
+    {
+        "route_id": "7",
+        "service_id": "142101839",
+        "trip_id": "7872_142101839",
+        "trip_headsign": "Piedimonte Matese",
+        "trip_short_name": "7872"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-504201347",
+        "trip_id": "7873_-504201347",
+        "trip_headsign": "Napoli Centrale RFI",
+        "trip_short_name": "7873"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7875_-1939953668",
+        "trip_headsign": "S. Maria Capua Vetere RFI",
+        "trip_short_name": "7875"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1939953668",
+        "trip_id": "7876_-1939953668",
+        "trip_headsign": "Piedimonte Matese",
+        "trip_short_name": "7876"
+    },
+    {
+        "route_id": "7",
+        "service_id": "-1667503932",
+        "trip_id": "7878_-1667503932",
+        "trip_headsign": "Piedimonte Matese",
+        "trip_short_name": "7878"
+    },
+    {
+        "route_id": "8..",
+        "service_id": "1298274421",
+        "trip_id": "80555_1298274421",
+        "trip_headsign": "Pomigliano d'Arco",
+        "trip_short_name": "80555"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8060_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8060"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8060_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8060"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8061_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8061"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "80611_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "80611"
+    },
+    {
+        "route_id": "8",
+        "service_id": "327895744",
+        "trip_id": "8062_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8062"
+    },
+    {
+        "route_id": "8",
+        "service_id": "327895744",
+        "trip_id": "8063_327895744",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8063"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "80631_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "80631"
+    },
+    {
+        "route_id": "8..",
+        "service_id": "1298274421",
+        "trip_id": "80636_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "80636"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1298274421",
+        "trip_id": "8064_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8064"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "80641_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "80641"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "80648_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "80648"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8065_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8065"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "80653_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "80653"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8068_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8068"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1298274421",
+        "trip_id": "8069_1298274421",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8069"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "80700_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "80700"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8071_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8071"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "80711_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "80711"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "80718_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "80718"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1298274421",
+        "trip_id": "8072_1298274421",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8072"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8073_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8073"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "80730_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "80730"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "80741_327895744",
+        "trip_headsign": "S. Giorgio a Cremano",
+        "trip_short_name": "80741"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "80748_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "80748"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8076_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8076"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8080_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8080"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8080_-1890850101",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8080"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8081_1733213077",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8081"
+    },
+    {
+        "route_id": "8",
+        "service_id": "-1890850101",
+        "trip_id": "8081_-1890850101",
+        "trip_headsign": "Baiano",
+        "trip_short_name": "8081"
+    },
+    {
+        "route_id": "8.",
+        "service_id": "327895744",
+        "trip_id": "80818_327895744",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "80818"
+    },
+    {
+        "route_id": "8..",
+        "service_id": "1298274421",
+        "trip_id": "80819_1298274421",
+        "trip_headsign": "Pomigliano d'Arco",
+        "trip_short_name": "80819"
+    },
+    {
+        "route_id": "8",
+        "service_id": "1733213077",
+        "trip_id": "8082_1733213077",
+        "trip_headsign": "Napoli Porta Nolana",
+        "trip_short_name": "8082"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9163_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9163"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9164_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9164"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9165_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9165"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9170_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9170"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9171_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9171"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9172_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9172"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9173_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9173"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9174_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9174"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9175_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9175"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9180_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9180"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9181_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9181"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9182_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9182"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9183_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9183"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9184_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9184"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9185_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9185"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9190_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9190"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9191_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9191"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9192_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9192"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9193_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9193"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9194_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9194"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9195_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9195"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9200_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9200"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9201_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9201"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9202_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9202"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9203_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9203"
+    },
+    {
+        "route_id": "9",
+        "service_id": "873154617",
+        "trip_id": "92039_873154617",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "92039"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9204_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9204"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9205_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9205"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9210_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9210"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9211_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9211"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9212_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9212"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9213_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9213"
+    },
+    {
+        "route_id": "9",
+        "service_id": "831398791",
+        "trip_id": "92130_831398791",
+        "trip_headsign": "Fuorigrotta",
+        "trip_short_name": "92130"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9214_-1671645236",
+        "trip_headsign": "Torregaveta",
+        "trip_short_name": "9214"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "9215_-1671645236",
+        "trip_headsign": "Montesanto",
+        "trip_short_name": "9215"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "92200_-1671645236",
+        "trip_headsign": "Fuorigrotta",
+        "trip_short_name": "92200"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "92213_-1671645236",
+        "trip_headsign": "Fuorigrotta",
+        "trip_short_name": "92213"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "92220_-1671645236",
+        "trip_headsign": "Fuorigrotta",
+        "trip_short_name": "92220"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "92225_-1671645236",
+        "trip_headsign": "Fuorigrotta",
+        "trip_short_name": "92225"
+    },
+    {
+        "route_id": "9",
+        "service_id": "-1671645236",
+        "trip_id": "92240_-1671645236",
+        "trip_headsign": "Fuorigrotta",
+        "trip_short_name": "92240"
+    },
+    {
+        "route_id": ""
+    }
+]
