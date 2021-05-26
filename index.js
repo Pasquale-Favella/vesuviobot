@@ -13,8 +13,7 @@ cron.schedule('0 12 */14 * *', () => {
 });
 
 
-
-//TODO : wirare con bot telegram
+//TODO : implementare bot actions 
 
 
 
