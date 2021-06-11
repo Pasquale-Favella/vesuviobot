@@ -75,4 +75,4 @@ const downloadZipFromURL=()=>{
     });
 }
 
-module.exports={decomprimiPayload,downloadZipFromURL};
+module.exports={downloadZipFromURL};
